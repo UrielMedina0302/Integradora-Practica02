@@ -96,7 +96,29 @@ Tambien podemos ingresar el texto multilinea
 
 >> C://Program Files/MySQL Server 8.0/bin/mysql- u root-password< respaldo.sql
 
+###6. Listas Ordenadas y Listas desordenadas
 
+Si en nuestra ndocumemntacion necesitamos incluir informacion en modo de lista, un elemento tras otro podemos hacerñlo utilizando los numeros con un punto decimal si las deseamos ordenadas con un punto medio
 
+- si solo quieremos una viñeta.
 
+**ejemplo**
 
+Para crear tu primer repositorio en github deberás:
+
+1.Contar con una cuenta GitHub.
+
+1.Dar clic en el boton:**Nuevo repositorio*
+
+2.Asignarle un Nombre a tu repositorio, por ejemplo: *practica03-3b*
+
+8.Asignarle un nivel de privacidad entre: 
+
+ -**Público: ** Si quieres que etse disponible para todos los usuarios.
+ -**Privado: ** Si deseas que solo a quien tu decidas puedan
+
+10.definir si incluye  un archivo de descripcion llamda: *READ.md*
+
+11.Definir si habrá exclusiones de archivos a tráves del archivo *.gitgmore*
+
+12.Guardar cambios
