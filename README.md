@@ -15,5 +15,15 @@ para poder delimitar o hacer énfasis(enfatizar), es decir, resaltar las seccion
 #### Encabezados de Nivel 4 - Similar a H4 en HTML
 ##### Encabezados de Nivel 5 - Similar a H5 en HTML
 ###### Encabezaos de Nivel 6 - Similar a H6 en HTML
-####### Encabezados de Nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado será ignorado. s
+####### Encabezados de Nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado será ignorado. 
+
+### 2.Separadores (SEPARATORS)
+Si desea marcar una separación  más visual de contenidos podemos utilizarlos indicando tres caracteres de "-" continuos,
+en el maquetado
+
+EJEMPLO:
+---
+
+*Esto es símilar a un tag de <HR> en HTML.
+
 
