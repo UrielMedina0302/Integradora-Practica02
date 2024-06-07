@@ -58,7 +58,7 @@ EJEMPLO:
 
 **Texto importante**TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
 
-intregradora-practica03
+# Intregradora-practica03
 
 continuamos con los comandpos basicos de git y gitub para el maquertado de documentacion
 
