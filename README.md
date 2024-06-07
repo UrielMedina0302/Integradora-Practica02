@@ -17,7 +17,7 @@ para poder delimitar o hacer énfasis(enfatizar), es decir, resaltar las seccion
 ###### Encabezaos de Nivel 6 - Similar a H6 en HTML
 ####### Encabezados de Nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado será ignorado. 
 
-### 2.Separadores (SEPARATORS)
+### 2. Separadores (SEPARATORS)
 Si desea marcar una separación  más visual de contenidos podemos utilizarlos indicando tres caracteres de "-" continuos,
 en el maquetado
 
@@ -25,5 +25,32 @@ EJEMPLO:
 ---
 
 *Esto es símilar a un tag de <HR> en HTML.
+### 3. Parrafos (PARAGRPAHS)
+Son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
+
+EJEMPLO
+
+Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 Este texto corresponde al parrafo 1 
+
+Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 Este texto corresponde al parrafo 2 
+
+Lo que en una pagina utilizariamos la etiqueta <p>
+
+Tambien podemos aplicar estilos basicos de alineación:
+
+Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
+
+<p align="right">
+Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
+
+<p align="center">
+Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacionEste parrafo esta centrado usando la propieda de alineacionEste parrafo esta centrado usando la propieda de alineacionEste parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacionEste parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta centrado usando la propieda de alineacion
+
+<p align="justify">
+Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacionEste parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion
+
+
+
+
 
 
