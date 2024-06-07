@@ -58,6 +58,43 @@ EJEMPLO:
 
 **Texto importante**TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
 
+intregradora-practica03
+
+continuamos con los comandpos basicos de git y gitub para el maquertado de documentacion
+
+###5. Cuadros de codigo o Reseñas (blockquotes)
+
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o inicializacion o mostrar secciones de codigo fuente. Se maqueta iniciando el texto con el simbolo de menor que(\<).
+
+**ejemplo**
+
+Para listar las carpetas y archivos en desde la terminal de sistema operativo windows debemos de ingresar el comando:
+
+>c:/dir
+
+despues oprimimos la tecla "enter"
+
+Tambien podemos ingresar el texto multilinea
+
+**ejemplo**
+
+>Aqui se ingresan u conjunto de intruccione
+
+>para explicar al usuario, como intalar el 
+
+>software que hemos diseñadoy si desamos incluir viñetas para enlistar pasos podemos utilizar el caracter -dentro del texto a documentar
+
+**ejemplo**
+
+>-Descargar MySQL Server sitio oficial
+
+>-Instalar el sistema Gestor de Base de Datos, definiendo el puerto y la contraseña para el usuario ***root***
+
+>-Descargamos el archivo de respaldo de la base de datos(.sql)
+
+>-Restauramos la base de datos usado el comando *mysql*
+
+>> C://Program Files/MySQL Server 8.0/bin/mysql- u root-password< respaldo.sql
 
 
 
