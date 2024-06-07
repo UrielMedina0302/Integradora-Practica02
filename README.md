@@ -48,6 +48,15 @@ Este parrafo esta centrado usando la propieda de alineacion Este parrafo esta ce
 
 <p align="justify">
 Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacionEste parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion
+### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+Si el texto que deseamos enfantizar se encuentra de un parrafo, podemos utilizar algunos trucos para ubicarlos en la documentación
+
+######Texto en negrita(BOLD)
+Para poder el texto en negrita, este debera ser encerrado entre**
+
+EJEMPLO:
+
+**Texto importante**TextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTextoTexto
 
 
 
