@@ -122,3 +122,19 @@ Para crear tu primer repositorio en github deberás:
 11.Definir si habrá exclusiones de archivos a tráves del archivo *.gitgmore*
 
 12.Guardar cambios
+
+####7.Ligas(hipervinculos)
+
+Las ligas son utlilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. 
+Y se maquetan utilizando loos corchetes \[\], inmediatamente despues pondremos la liga de referenckia entre parentesis
+
+**Ejemplo:**
+
+Mi buscador favorito es:[www.google.com](https://www.google.com)
+Pero si solo desea,mos poner las ligas directas a u n correo electronico podemos utilizar los simbolos \<\>
+
+**Ejemplo**
+
+Documentacion creada por: ***T.S.U Uriel Abdallah Medina Torres***
+<230768@utxicotepec.edu.mx>
+<http://www.xicotepec.edu.mx >
