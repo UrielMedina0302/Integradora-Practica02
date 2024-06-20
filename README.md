@@ -243,5 +243,5 @@ parentesis.
 
 **EJEMPLO:**
 
-![LINUX]()
+![LINUX](https://github.com/UrielMedina0302/Integradora-Practica02/blob/main/sjw.jpg)
 
