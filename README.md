@@ -138,3 +138,22 @@ Pero si solo desea,mos poner las ligas directas a u n correo electronico podemos
 Documentacion creada por: ***T.S.U Uriel Abdallah Medina Torres***
 <230768@utxicotepec.edu.mx>
 <http://www.xicotepec.edu.mx >
+
+### 9. Imágenes
+una imagen es un archivo gráfico que puedes incluir en tu repositorio para ilustrar, documentar o mejorar la comprensión de tu proyecto. Estas imágenes pueden ser de diferentes formatos como .png, .jpg, .gif, etc. Las imágenes son útiles para proporcionar diagramas, capturas de pantalla, gráficos, y otros elementos visuales que complementen la información textual en tus archivos de documentación.
+
+**EJEMPLO:**
+Cómo Incluir Imágenes en un Repositorio de GitHub deberas:
+1. Contar con cuenta GitHub
+1. Puedes subir imágenes usando la interfaz web de GitHub o la línea de comandos.
+2. Ve a tu repositorio en GitHub.
+8. Haz clic en "Add file" y selecciona "Upload files".
+   - **Como agregar:** Arrastra y suelta tu imagen en el área de carga. Añade un mensaje de commit y haz clic en "Commit changes".
+   - **En comandos:** Usar la Línea de Comandos coloca la imagen en el directorio de tu repositorio local. Para agregar la imagen: 
+       ruta/tucuenta/repocitorio/imagen.png.
+    >- Puedes referenciar o poner un mensaje con ![  ].
+    >- Obligatoriamente el hipervinculo debera ir en ( / / ).
+  3. Guardar los cambios.
+
+**EJEMPLO:**  
+Mi imagen favorita es ![KAFKA HIBINO](https://th.bing.com/th/id/OIP.etzY_9p_5IUAaAI_Gs4YKwHaJ4?rs=1&pid=ImgDetMain)
